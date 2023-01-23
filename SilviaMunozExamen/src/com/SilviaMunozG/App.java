@@ -5,7 +5,7 @@ public class App {
 		{
 			Alumno alumno1;
 			alumno1 = new Alumno();
-//			alumno1.calificaciones = 7;
+			alumno1.calificaciones = 7;
 //			alumno1.Matricula = "correcta";
 //			alumno1.Nombre = "Tomás Muñoz";
 //
